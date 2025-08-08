@@ -20,5 +20,34 @@ This PowerShell script automates essential configurations right after formatting
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone https://github.com/your-username/PostFormat-Automation.git
+git clone https://github.com/rtx3338/PostFormat-Automation.git
 cd PostFormat-Automation
+```
+
+### 2. Run the Script
+
+```powershell
+.\PostFormat-Automation.ps1
+```
+
+> 🧠 Tip: Right-click PowerShell and choose “Run as Administrator” before executing the script.
+
+---
+
+## 👨‍💻 Author
+
+Developed by [Your Name]  
+With the help of [Sharan Kumar](https://www.linkedin.com/in/sharankumar-/)
+
+---
+
+## 📌 Notes
+
+- The Administrator password is currently hardcoded in the script for demonstration. **Please modify it** or use a secure vault in production environments.
+- DNS server is set to `192.168.*.*` — change it as per your network configuration.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
