@@ -36,7 +36,7 @@ cd PostFormat-Automation
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]  
+Developed by Javad Hussain B. 
 With the help of [Sharan Kumar](https://www.linkedin.com/in/sharankumar-/)
 
 ---
@@ -50,4 +50,4 @@ With the help of [Sharan Kumar](https://www.linkedin.com/in/sharankumar-/)
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
