@@ -36,7 +36,7 @@ cd PostFormat-Automation
 
 ## 👨‍💻 Author
 
-Developed by [Your Name]  
+Developed by Javad Hussain  
 With the help of [Sharan Kumar](https://www.linkedin.com/in/sharankumar-/)
 
 ---
